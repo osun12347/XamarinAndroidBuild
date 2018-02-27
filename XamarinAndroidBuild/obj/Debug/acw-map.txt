@@ -1,0 +1,4 @@
+XamarinAndroidBuild.MainActivity, XamarinAndroidBuild;md5bac6e329fac18b561f2adc016d0b731d.MainActivity
+XamarinAndroidBuild.MainActivity, XamarinAndroidBuild, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bac6e329fac18b561f2adc016d0b731d.MainActivity
+XamarinAndroidBuild.MainActivity;md5bac6e329fac18b561f2adc016d0b731d.MainActivity
+xamarinandroidbuild.MainActivity;md5bac6e329fac18b561f2adc016d0b731d.MainActivity

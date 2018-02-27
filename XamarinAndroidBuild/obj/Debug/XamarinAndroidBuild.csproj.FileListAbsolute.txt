@@ -1,0 +1,13 @@
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\bin\Debug\XamarinAndroidBuild.dll
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\bin\Debug\XamarinAndroidBuild.pdb
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\bin\Debug\XamarinAndroidBuild.XamarinAndroidBuild.apk
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\bin\Debug\XamarinAndroidBuild.XamarinAndroidBuild-Signed.apk
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\XamarinAndroidBuild.csprojResolveAssemblyReference.cache
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\XamarinAndroidBuild.csproj.CoreCompileInputs.cache
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\XamarinAndroidBuild.dll
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\XamarinAndroidBuild.pdb
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\android\bin\XamarinAndroidBuild.XamarinAndroidBuild.apk
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\res\layout\main.xml
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\res\values\strings.xml
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\R.cs.flag
+c:\users\v-wngwei\Source\Repos\XamarinAndroidBuild\XamarinAndroidBuild\obj\Debug\uploadflags.txt
